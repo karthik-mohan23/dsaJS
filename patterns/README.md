@@ -1,12 +1,11 @@
 Patterns -> nested loops
 
-        c c c c
-        | | | |
-
-rows -> X X X X
-rows -> X X X X
-rows -> X X X X
-rows -> X X X X
+|      | c   | c   | c   | c   |
+| ---- | --- | --- | --- | --- |
+| rows | X   | X   | X   | X   |
+| rows | X   | X   | X   | X   |
+| rows | X   | X   | X   | X   |
+| rows | X   | X   | X   | X   |
 
 1. For outer loop -> count the number of lines(rows).
 
