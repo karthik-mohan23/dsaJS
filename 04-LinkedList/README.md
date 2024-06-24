@@ -12,4 +12,4 @@ Reference - which will be referencing to another node.
 
 ### Singly Link List
 
-(Head)[Data|Next] -> [Data|Next] -> [Data|Next](Tail) -> null
+(Head)[Data|Next] -> [Data|Next] -> [Data|Next] (Tail) -> null
